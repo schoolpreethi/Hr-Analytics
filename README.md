@@ -53,4 +53,14 @@ Visualizations: bar charts, donut charts, line graphs, KPI cards.
 
 Custom background image integration.
 
+# Insights Derived:
+
+Highest attrition in the 26–35 age group and among Laboratory Technicians
+
+Significant attrition in employees earning under 5k, indicating compensation as a potential driver
+
+Research and Development department sees higher attrition compared to others
+
+Attrition is high in the first few years of employment, suggesting onboarding and early experience issues
+
 
